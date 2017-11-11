@@ -1,0 +1,16 @@
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\obj\Debug\PingAssessment.csprojResolveAssemblyReference.cache
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\PingAssessment.exe.config
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\PingAssessment.exe
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\PingAssessment.pdb
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\obj\Debug\PingAssessment.exe
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\obj\Debug\PingAssessment.pdb
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\PingAssessment.exe.manifest
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\bin\Debug\PingAssessment.application
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\obj\Debug\PingAssessment.exe.manifest
+C:\Users\Samkelo Ngubo\Desktop\12\PingAssessment_SamkeloNgubo\PingAssessment\PingAssessment\obj\Debug\PingAssessment.application
